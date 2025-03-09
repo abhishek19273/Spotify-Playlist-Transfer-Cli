@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "spotify-playlist-transfer"
-version = "0.1.0"
+version = "0.1.1"
 description = "A CLI tool to transfer Spotify playlists and liked songs between accounts"
 authors = [{ name = "Abhishek Kumar Singh", email = "devabhishek81121@gmail.com" }]
 license = { text = "MIT" }

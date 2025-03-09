@@ -36,6 +36,7 @@ dist/
 .coverage  
 htmlcov/   
 pytest_cache/  
+.pytest_cache/ 
 .tox/  
 .jupyter/
 .ipynb_checkpoints/
