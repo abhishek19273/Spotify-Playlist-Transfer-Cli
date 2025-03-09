@@ -8,3 +8,46 @@ wheels/
 
 # Virtual environments
 .venv
+# Byte-compiled / cached files
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+
+# Virtual environment
+.venv/
+venv/
+env/
+ENV/
+
+# IDE & Editor specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build & Distribution files
+build/
+dist/
+*.egg-info/
+*.whl
+
+# Test-related files
+.coverage  
+htmlcov/   
+pytest_cache/  
+.tox/  
+.jupyter/
+.ipynb_checkpoints/
+
+# Logs & Debugging
+*.log
+*.out
+*.err
+logs/
+
+# Misc
+.DS_Store  # macOS file
+Thumbs.db  # Windows file
+
+coverage.xml
